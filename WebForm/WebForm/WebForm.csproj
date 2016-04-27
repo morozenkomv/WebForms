@@ -395,7 +395,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebForm.Data1\WebForm.Data.csproj">
+    <ProjectReference Include="..\WebForm.Data\WebForm.Data.csproj">
       <Project>{f7065605-176d-443e-90f3-960163388f42}</Project>
       <Name>WebForm.Data</Name>
     </ProjectReference>

@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{C82D026F-4FFE-4FFB-A466-0716DF79DBEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm.Data", "WebForm.Data1\WebForm.Data.csproj", "{F7065605-176D-443E-90F3-960163388F42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm.Data", "WebForm.Data\WebForm.Data.csproj", "{F7065605-176D-443E-90F3-960163388F42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm.DAL", "WebForm.DAL\WebForm.DAL.csproj", "{A131E355-2354-4510-92A5-5738813C20F3}"
 EndProject
